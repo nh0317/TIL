@@ -4,8 +4,7 @@
 | 2022-08-01 | 2022-08-02 | 2022-08-03 | 2022-08-04 | 2022-08-05 | 2022-08-06 | 2022-08-07 |
 |            |            |            |            |            |            |            |
 | 2022-08-08 | 2022-08-09 | 2022-08-10 | 2022-08-11 | 2022-08-12 | 2022-08-13 | 2022-08-14 |
-|            |            |            |:heavy_check_mark: [스택 구현]()|            |            |            |
-|            |            |            |:heavy_check_mark: [큐 구현]()|             |            |            |
+|            |            |            |:heavy_check_mark: [스택&큐 구현](../tree/main/CS%20스터디/자료구조/##-2022-08-11)|            |            |            |       |            |
 |            |            |            |:heavy_check_mark: [백준 15683](https://github.com/nh0317/coding-test/tree/main/%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C)| | |            |
 |            |            |            |:heavy_check_mark: [Leet Code 1114 ](https://github.com/nh0317/leet-code/tree/main/1114-print-in-order)|            |            |            |
 |            |            |            |:heavy_check_mark: [SQL Leet Code 177 ](https://github.com/nh0317/leet-code/tree/main/177-nth-highest-salary)|            |            |            |

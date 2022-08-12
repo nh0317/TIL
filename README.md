@@ -1,17 +1,16 @@
 # :fire: TIL :fire:
 ---
 ## :cherry_blossom: List :cherry_blossom:
- - [:dolphin: SQL 문제](../TIL/SQL)
- - [:computer: CS 공부](../TIL/CS%20스터디)
-	 - [:floppy_disk: DB](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/DB)
-	 -  [:satellite: 네트워크](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
-	 - [:computer: OS](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/OS)
-	 - [:computer: 컴퓨터 구조](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
-	 - [:books: 알고리즘](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-	 - [:books: 자료구조](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-	 - [:bulb: 디자인 패턴)](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
-	 - [:bulb: 웹)](../TIL/CS%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9B%B9)
- - [:herb: 강의](../TIL/강의/README.md)
+ - [:dolphin: SQL 문제](../tree/main/SQL)
+ - [:computer: CS 공부](../tree/main/CS%20스터디)
+	 - [:floppy_disk: DB](../tree/main/CS%20스터디/DB)
+	 -  [:satellite: 네트워크](../tree/main/CS%20스터디/네트워크)
+	 - [:computer: OS](../tree/main/CS%20스터디/OS)
+	 - [:computer: 컴퓨터 구조](../tree/main/CS%20스터디/컴퓨터%20구조)
+	 - [:books: 자료구조&알고리즘](../tree/main/CS%20스터디/자료구조)
+	 - [:bulb: 디자인 패턴)](../tree/main/CS%20스터디/디자인%20패턴)
+	 - [:bulb: 웹)](../tree/main/CS%20스터디/웹)
+ - [:herb: 강의](../tree/main/강의)
  ---
 
 
